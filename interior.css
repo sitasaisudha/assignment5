@@ -1,5 +1,5 @@
 body{
-    background-image: url("home.jpg");
+    background-image: linear-gradient(#000000c3,#000000c3), url("home.jpg");
     
 
     
@@ -9,7 +9,7 @@ body{
 
 .navbar li{
     
-    color: black;
+    color: white;
     display: inline-block;
     margin-left: 30px;
     list-style: none;
